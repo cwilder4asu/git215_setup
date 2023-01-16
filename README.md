@@ -1,2 +1,2 @@
 # git215_setup
-## Author Cody Wilder
+## Author: Cody Wilder
